@@ -1,0 +1,4732 @@
+[
+  {
+    "ITEM": "PAR-TD0290005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD029/WHITE ON WHITE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0068-PL20",
+    "MERK": "PARAGON EML",
+    "NAMA": "0068/AQUA LACQUER-B",
+    "KMSN": "JRG/PLS"
+  },
+  {
+    "ITEM": "PAR-0293-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "0293/SILVER MIST",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0296-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "0296/WISHBONE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0299-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "0299/MOJAVA CREAM",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0301-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "301/CEMENT",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0301-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 301,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0301-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 301,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0301-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 301,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0301-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 301,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0301-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 301,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0301-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 301,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0301-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 301,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0302-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "302/BARBIE DOLL",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0302-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 302,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0302-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 302,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0302-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 302,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0302-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 302,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0302-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 302,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0302-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 302,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0302-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 302,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0303-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "303/GOLDEN EYE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0303-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 303,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0303-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 303,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0303-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 303,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0303-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 303,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0303-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 303,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0303-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 303,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0303-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 303,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0304-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "304/GREEN PEACE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0304-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 304,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0304-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 304,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0304-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 304,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0304-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 304,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0304-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 304,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0304-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 304,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0304-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 304,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0307-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "307/FIREWORKS",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0307-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 307,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0307-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 307,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0307-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 307,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0307-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 307,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0307-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 307,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0307-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 307,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0307-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 307,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0308-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "308/LEAF GREEN",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0308-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 308,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0308-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 308,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0308-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 308,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0308-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 308,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0308-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 308,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0308-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 308,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0308-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 308,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0309-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "309/SWEET BLUE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0309-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 309,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0309-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 309,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0309-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 309,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0309-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 309,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0309-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 309,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0309-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 309,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0309-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 309,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0310-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "310/BANANA YELLOW",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0310-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 310,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0310-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 310,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0310-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 310,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0310-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 310,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0310-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 310,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0310-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 310,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0310-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 310,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0311-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "311/CREAMY WHTIE/",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0311-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 311,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0311-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 311,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0311-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 311,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0311-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "311/",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0311-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "311/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0311-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "311/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0311-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "311/",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0317-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "317/DREAM LAND",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0317-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 317,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0317-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 317,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0317-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 317,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0317-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 317,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0317-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 317,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0317-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 317,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0317-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 317,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0324-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "324/HARD GREEN",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0324-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 324,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0324-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 324,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0324-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 324,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0324-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 324,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0324-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 324,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0324-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 324,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0324-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 324,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0325-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "325/LAVENDER VIOLET",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0325-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 325,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0325-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 325,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0325-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 325,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0325-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 325,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0325-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 325,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0325-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 325,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0325-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 325,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0326-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "326/SOFT TEA",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0326-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 326,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0326-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 326,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0326-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 326,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0326-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 326,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0326-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 326,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0326-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 326,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0326-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 326,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0327-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "327/BEAUTY COPALABA",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0327-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 327,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0327-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 327,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0327-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 327,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0327-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 327,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0327-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 327,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0327-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 327,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0327-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 327,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0329-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "329/DIVA CARROT",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0329-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 329,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0329-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 329,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0329-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 329,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0329-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 329,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0329-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 329,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0329-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 329,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0329-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 329,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0330-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "330/LUNA RED",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0330-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 330,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0330-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 330,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0330-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 330,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0330-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 330,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0330-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 330,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0330-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 330,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0330-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 330,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0332-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "332/OCEAN BLUE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0332-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 332,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0332-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 332,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0332-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 332,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0332-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 332,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0332-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 332,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0332-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 332,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0332-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 332,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0333-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "333/GREEN ICE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0333-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 333,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0333-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 333,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0333-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 333,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0333-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 333,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0333-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 333,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0333-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 333,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0333-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 333,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0334-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "334/SILEX WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0334-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 334,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0334-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 334,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0334-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 334,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0334-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 334,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0334-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 334,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0334-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 334,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0334-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 334,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0335-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "335/LIGHT SKY BLUE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0335-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 335,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0335-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 335,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0335-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 335,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0335-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 335,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0335-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 335,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0335-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 335,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0335-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 335,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0336-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "336/MERLIN BLUE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0336-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 336,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0336-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 336,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0336-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 336,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0336-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 336,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0336-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 336,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0336-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 336,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0336-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 336,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0337-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "337/LIGHT ROSE PINK",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0337-D005",
+    "MERK": "PARAGON EML",
+    "NAMA": 337,
+    "KMSN": "KLG/DW"
+  },
+  {
+    "ITEM": "PAR-0337-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 337,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0337-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 337,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0337-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 337,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0337-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 337,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0337-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 337,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0337-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 337,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0337-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 337,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0338-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "338/CORAL PINK/",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0338-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 338,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0338-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 338,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0338-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 338,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0338-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "338/",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0338-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "338/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0338-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "338/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0338-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "338/",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0339-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "339/LIME YELLOW",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0339-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 339,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0339-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 339,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0339-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 339,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0339-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 339,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0339-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 339,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0339-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 339,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0339-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 339,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0341-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "341/BLEWAH",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0341-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 341,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0341-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 341,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0341-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 341,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0341-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 341,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0341-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 341,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0341-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 341,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0341-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 341,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0342-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "342/ORANGE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0342-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 342,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0342-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 342,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0342-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 342,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0342-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 342,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0342-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 342,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0342-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 342,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0342-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 342,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0343-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "343/MISTY GREEN",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0343-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 343,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0343-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 343,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0343-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 343,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0343-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 343,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0343-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 343,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0343-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 343,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0343-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 343,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0344-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "344/APPLE WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0344-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 344,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0344-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 344,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0344-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 344,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0344-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 344,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0344-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 344,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0344-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 344,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0344-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 344,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0345-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "345/APRICOT",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0345-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 345,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0345-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 345,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0345-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 345,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0345-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 345,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0345-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 345,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0345-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 345,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0345-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 345,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0346-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "346/SOFT BLUE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0346-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 346,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0346-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 346,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0346-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 346,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0346-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 346,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0346-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 346,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0346-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 346,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0346-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 346,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0347-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "347/CHIFFON",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0347-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 347,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0347-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 347,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0347-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 347,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0347-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 347,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0347-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 347,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0347-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 347,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0347-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 347,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0348-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "348/ROSE PINK",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0348-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 348,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0348-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 348,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0348-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 348,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0348-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 348,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0348-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 348,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0348-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 348,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0348-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 348,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0349-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0349-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0349-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0349-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0349-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0349-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0349-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0349-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "349/PUTIH ELITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0350-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "350/SUGAR CONE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0350-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 350,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0350-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 350,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0350-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 350,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0350-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 350,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0350-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 350,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0350-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 350,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0350-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 350,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0351-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": 351,
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0353-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "353/GOBY SAND",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0353-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 353,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0353-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 353,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0353-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 353,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0353-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 353,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0353-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 353,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0353-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 353,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0353-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 353,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0354-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "354/PAPER MOON",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0354-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 354,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0354-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 354,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0354-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 354,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0354-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 354,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0354-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 354,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0354-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 354,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0354-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 354,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0357-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "357/HIBISCUS",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0357-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 357,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0357-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 357,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0357-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 357,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0357-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 357,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0357-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 357,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0357-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 357,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0357-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 357,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0358-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "358/AR BLUE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0358-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 358,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0358-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 358,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0358-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 358,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0358-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 358,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0358-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 358,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0358-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 358,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0358-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 358,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0359-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "359/BEAUTY FUSCHIA",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0359-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 359,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0359-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 359,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0359-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 359,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0359-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 359,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0360-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "360/SPRING GREEN",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0360-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 360,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0360-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 360,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0360-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 360,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0360-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 360,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0361-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "361/DARK YELLOW",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0361-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 361,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0361-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 361,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0361-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 361,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0361-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 361,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0361-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 361,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0361-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 361,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0361-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 361,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0362-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "362/MARBLE WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0362-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 362,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0362-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 362,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0362-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 362,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0362-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 362,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0362-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 362,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0362-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 362,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0362-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 362,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0364-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "364/PASTEL GREY",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0364-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 364,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0364-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 364,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0364-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 364,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0364-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 364,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0364-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 364,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0364-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 364,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0364-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 364,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0365-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "365/ORANGE LADY",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0365-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 365,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0365-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 365,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0365-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 365,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0365-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 365,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0366-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "366/UNIQUE WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0366-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 366,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0366-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 366,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0366-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 366,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0366-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 366,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0366-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 366,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0366-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 366,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0366-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 366,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0368-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "368/SILVER GREY",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0368-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 368,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0368-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 368,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0368-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 368,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0368-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 368,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0368-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 368,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0368-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 368,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0368-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 368,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0369-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "369/STONE GREY",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0369-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 369,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0369-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 369,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0369-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 369,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0369-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 369,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0369-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 369,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0369-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 369,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0369-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 369,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0371-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "371/TURQUOISE/",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0371-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 371,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0371-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 371,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0371-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 371,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0371-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "371/",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0371-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "371/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0371-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "371/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0371-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "371/",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0373-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "373/MINT",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0373-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 373,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0373-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 373,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0373-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 373,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0373-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 373,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0373-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 373,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0373-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 373,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0373-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 373,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0374-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "374/TILE RED",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0374-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 374,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0374-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 374,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0374-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 374,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0374-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 374,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0374-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 374,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0374-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 374,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0374-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 374,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0375-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "375/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0375-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "375/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0375-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "375/",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0375-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "375/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0375-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "375/",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0376-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "376/DARK GREEN",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0376-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 376,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0376-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 376,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0376-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 376,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0376-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 376,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0376-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 376,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0376-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 376,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0376-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 376,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0377-0030",
+    "MERK": "PARAGON EML",
+    "NAMA": 377,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0377-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "377/DEEP BLUE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0377-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 377,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0377-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 377,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0377-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 377,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0377-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 377,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0377-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 377,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0377-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 377,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0377-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 377,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0382-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "382/TROPICANA",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0382-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 382,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0382-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 382,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0382-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 382,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0382-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 382,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0382-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 382,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0382-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 382,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0382-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 382,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0393-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "393/CREAM",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0393-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 393,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0393-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 393,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0393-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 393,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0393-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 393,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0393-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 393,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0393-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 393,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0393-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 393,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0394-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "394/LIME TINT",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0394-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 394,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0394-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 394,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0394-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 394,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0394-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 394,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0394-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 394,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0394-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 394,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0394-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 394,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0396-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "396/PUTIH DEO",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0396-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "396/PUTIH DEO",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0396-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "396/PUTIH DEO",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0396-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "396/PUTIH DEO",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0396-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "396/PUTIH DEO",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0396-PS30",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "396/PUTIH DEO",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0397-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "397/SUEDE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0397-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 397,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0397-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 397,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0397-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 397,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0397-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 397,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0397-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 397,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0397-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 397,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0397-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 397,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0398-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "398/DURIAN",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0398-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 398,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0398-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 398,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0398-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 398,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0398-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 398,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0398-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 398,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0398-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 398,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0398-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 398,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0603-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 603,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0603-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 603,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0604-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 604,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0604-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 604,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0607-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 607,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0607-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 607,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0625-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 625,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0625-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 625,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0657-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 657,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0657-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 657,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0658-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 658,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0658-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 658,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0674-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 674,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0674-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 674,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0676-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 676,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0676-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 676,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0697-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": 697,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0697-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": 697,
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-0DOS-DB05",
+    "MERK": "PARAGON EML DB5",
+    "NAMA": "DOS PARAGON EML DB 5",
+    "KMSN": [
+      null
+    ]
+  },
+  {
+    "ITEM": "PAR-0DOS-PS01",
+    "MERK": "DOS PAR EML 1KG",
+    "NAMA": "DOS PAR 1 KG",
+    "KMSN": ""
+  },
+  {
+    "ITEM": "PAR-0DOS-PS05",
+    "MERK": "DOS PAR EML 5KG",
+    "NAMA": "DOS PAR 5 KG",
+    "KMSN": ""
+  },
+  {
+    "ITEM": "PAR-0MU1-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "MU1",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0PMT-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0PMT-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0PMT-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0PMT-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0PMT-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0PMT-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0PMT-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0PMT-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PMET/PUTIH METROLIT",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1222-PL30",
+    "MERK": "PARAGON EML",
+    "NAMA": "1222/PUTIH LAGUNA",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-1250-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "1250/CAMATION WHITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1265-0004",
+    "MERK": "PARAGON ALKALI",
+    "NAMA": "1265/ALKALI PRIMER",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1265-0020",
+    "MERK": "PARAGON ALKALI",
+    "NAMA": "1265/ALKALI PRIMER",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1290-PL30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "1290/GARDENIA WHITE",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-1294-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "1294/PUTIH HIMA",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1304-PL20",
+    "MERK": "PARAGON WALLS",
+    "NAMA": "1304/WALL SEALER",
+    "KMSN": "PAIL PLS"
+  },
+  {
+    "ITEM": "PAR-1314-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "1314/PLAMIR EXTERIOR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1321-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "1321/PRIMER WHITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-2212-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "2212/SUN YELLOW",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-2215-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "2215/YELLOW STONE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-2291-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "2291/AQUA L. A TR YL",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-2291-PL20",
+    "MERK": "PARAGON EML",
+    "NAMA": "2291/AQUA L TRANS YL",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-2310-0300",
+    "MERK": "PARAGON EML",
+    "NAMA": "2310/WD PUTY OKR KRA",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-3369-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "3369/PILAR B RED PB",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-3397-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "3397/RED YUDISTIRA",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-3507-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "3507/RED BOX",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-3577-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "3577/AQUA LACQ RED",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-357X-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "357X",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-3593-0300",
+    "MERK": "PARAGON EML",
+    "NAMA": "3593/WOOD PUT.MB KRA",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-361X-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "361X/GOLDEN YELLOW",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-361X-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "361X",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-361X-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "361X",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-361X-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "361X",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-361X-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "361X",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-361X-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "361X",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-361X-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "361X",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-361X-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "361X",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-364A-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "364A/DARK PASTEL GY",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-364A-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "364A",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-364A-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "364A",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-364A-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "364A",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-364A-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "364A",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-364A-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "364A",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-364A-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "364A",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-364A-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "364A",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-4102-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "4102/FANTASY ORANGE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-5531-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "5531/BLUE XL",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-5561-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "5561/BLUE TEAR DROP",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-6384-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "6384/COOL GREEN",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-6536-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "6536/GREEN TEA",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-6575-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "6575/APPLE GREEN",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-661X-K100",
+    "MERK": "ART COLOUR",
+    "NAMA": "661X",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-661X-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": "661X",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-6779-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "6779/FOREST GREEN",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-8204-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "8204/MOJAVE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-8206-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "8206/JAF DB.8206-15",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-8209-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "8209/ROCKY NOOK",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-8210-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "8210/SIERRA MADRE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-8212-0300",
+    "MERK": "PARAGON EML",
+    "NAMA": "8212/WD PUTY BRW KRA",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-8215-PL20",
+    "MERK": "PARAGON EML",
+    "NAMA": "8215/CHOCOLATE CMC",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-9220-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "9220/HITAM DMY",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-AC01-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC01",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC01-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC01",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC02-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC02",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC02-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC02",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC03-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC03",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC03-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC03",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC04-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC04",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC04-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC04",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC05-0020",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC05",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-AC05-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC05",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC05-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC05",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC05-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": "AC05/AC05",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC06-0020",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC06",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-AC06-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC06",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC06-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC06",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC06-K200",
+    "MERK": "ART COLOUR",
+    "NAMA": "AC06/AC06",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC07-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC07",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC07-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC07",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC08-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC08",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC08-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC08",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC09-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC09",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC09-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC09",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC10-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC10",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC10-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC10",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC11-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC11",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC11-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC11",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC12-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC12",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC12-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC12",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC13-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC13",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC13-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC13",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC14-DBK1",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC14",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC14-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC14",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC15-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC15/GOLD",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC15-K900",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC15/GOLD",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-AC16-0020",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC16/LIGHT GOLD",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-AC16-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC16/LIGHT GOLD",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-AC16-K900",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC16/LIGHT GOLD",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-AC17-DBK2",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC17/COPPER RED",
+    "KMSN": "LUSIN"
+  },
+  {
+    "ITEM": "PAR-B026-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "50026/BLUE ANCHOR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-B095-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "51095/BLUE WASH",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-B107-PL20",
+    "MERK": "PARAGON EML",
+    "NAMA": "51107/LIGHT WAVE",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-C111-PL20",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0111/MEDIUM SABLON",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-C117-LT20",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0117/STON COAT GLOS",
+    "KMSN": "JERIGEN"
+  },
+  {
+    "ITEM": "PAR-C120-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0120/AQUA LQP CLEAR",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-G034-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "07034/SUSSEX GREY",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-G069-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "07069/GY JAF17122015",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-G082-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "07082/DURE GREY",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-G107-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "07107/SMOKEY WINGS",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-HITA-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "HITAM",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-HITA-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "HITAM",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-HITA-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "HITAM",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-HITA-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "HITAM",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-HITA-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "HITAM",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-HITA-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "HITAM",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-HITA-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "HITAM",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-HITA-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "HITAM",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-K003-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "01003/SEA OATS",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-K103-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "01103/WD.PUTY V SGON",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-K103-0300",
+    "MERK": "PARAGON EML",
+    "NAMA": "01103/WD.PUTY V SGON",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-K115-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "01115/POLAR BEAR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-KALE-0005",
+    "MERK": "KALENG GOLD PLS",
+    "NAMA": "KALENG PARAGON 5 KG",
+    "KMSN": "KLG KSG"
+  },
+  {
+    "ITEM": "PAR-P.01-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "P.01/VANILLA WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-P.01-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.01",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.01-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.01",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.01-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.01",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.01-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.01",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.01-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.01",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.03-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "P.03/DIAMOND WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-P.03-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.03",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.03-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.03",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.03-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.03",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.03-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.03",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.03-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.03",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.04-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "P.04/JASMINE WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-P.04-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.04",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.04-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.04",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.04-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.04",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.04-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.04",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.04-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.04",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.12-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "P.12/SILVER WHITE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-P.12-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.12",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.12-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.12",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.12-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "P.12",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-P.12-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.12",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-P.12-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "P.12",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-PAIL-0020",
+    "MERK": "PRG 20 PAIL+TTP",
+    "NAMA": "PAIL PARAGON 20+TTP",
+    "KMSN": "PAIL KSG"
+  },
+  {
+    "ITEM": "PAR-PAIL-0030",
+    "MERK": "KALENG GOLD PLS",
+    "NAMA": "PAIL PARAGON 30 KG",
+    "KMSN": "KLG KSG"
+  },
+  {
+    "ITEM": "PAR-PAIL-PS30",
+    "MERK": "KALENG GOLD PLS",
+    "NAMA": "PAIL PARAGON 30 PS",
+    "KMSN": "KLG KSG"
+  },
+  {
+    "ITEM": "PAR-PLAM-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PLAMIR",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PLAM-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PLAMIR",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PLAM-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PLAMIR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-PLAM-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PLAMIR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-PLAM-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PLAMIR",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PLAM-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PLAMIR",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PLAM-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PLAMIR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-PUTI-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "PUTIH",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-PUTI-DB01",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PUTIH",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PUTI-DB05",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PUTIH",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PUTI-DB20",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PUTIH",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-PUTI-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "PUTIH",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-PUTI-PL30",
+    "MERK": "PARAGON EML",
+    "NAMA": "PUTIH",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-PUTI-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PUTIH",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PUTI-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PUTIH",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-PUTI-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PUTIH",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-PUTI-PS30",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "PUTIH",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS60-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS60/WHITE IDX",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS60-PL20",
+    "MERK": "PARAGON WS",
+    "NAMA": "WS60/WHITE IDX",
+    "KMSN": "JRG/PLS"
+  },
+  {
+    "ITEM": "PAR-WS64-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS64/MADURA GLD(MAG)",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS65-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS65/PIGION (PGE)",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS66-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS66/WEATH.GREY(WTG)",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS67-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS67/MOON STONE YELL",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS68-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS68/GREY CHARLESTON",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS69-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS69/MOON STONE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS70-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS70/OAK",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS71-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS71/WEATH.OCEAN BLU",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS72-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS72/WEATH.LIGHT GY",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS73-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS73/RUSTY WHITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS77-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS77/CLEAR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-8246-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "8246/W.PUTY SUNGKAI",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0MU1-PL25",
+    "MERK": "PARAGON EML",
+    "NAMA": "MU1",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-2368-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "2368/AQUA L. D TR YL",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-AC18-0020",
+    "MERK": "ART COLOUR DB",
+    "NAMA": "AC18/GOLD KS",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C0167LT20",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0167/SND SEALER HV3",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS74-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS74/GREY CATUR",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS75-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS75/DAS-ERB",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS76-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS76/INDIGO GREEN",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-9251-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "9251/JAFA BLACK",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS78-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS78/DARK BROWN",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-2348-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "2348/AQUA L. B TR YL",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-C142-0200",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0142/AQUA L.CL-KS 2",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-1336-PL20",
+    "MERK": "PARAGON INK WB",
+    "NAMA": "1336/SABLON WHITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C142-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0142/AQUA L.CL-KS 2",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-WS79-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS79/BOYSENBERRY",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS79-LT05",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS79/BOYSENBERRY",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-8233-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "8233/WD PUTY BROWN02",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1507-DB30",
+    "MERK": "PARAGON HV",
+    "NAMA": "1507/PUTIH",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1507-0300",
+    "MERK": "PARAGON HV",
+    "NAMA": "1507/PUTIH",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-1265-0250",
+    "MERK": "PARAGON ALKALI",
+    "NAMA": "1265/ALKALI PRIMER",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-1500-0005",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1500-A/BASE A",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1501-0005",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1501-B/BASE B",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1502-0005",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1502-C/BASE C",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1503-0005",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1503-D/BASE D",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1500-0020",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1500-A/BASE A",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1501-0020",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1501-B/BASE B",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1502-0020",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1502-C/BASE C",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1503-0020",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1503-D/BASE D",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C146-L020",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0146/SAND.SEALER HV",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1507-0004",
+    "MERK": "PARAGON HV",
+    "NAMA": "1507/PUTIH",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-01128PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "01128/CREAM WELDON",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C01910020",
+    "MERK": "WS TOPCOAT WB",
+    "NAMA": "C0191/C.MATT 7 TPP",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-2355-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "2355/AQUA L. C TR YL",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-1500-0001",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1500-A/BASE A",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1501-0001",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1501-B/BASE B",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1502-0001",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1502-C/BASE C",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1503-0001",
+    "MERK": "PARAGON EML T",
+    "NAMA": "1503-D/BASE D",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-WS80-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS80/WHITE IDX HQ",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS85-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS85/PUT IDX",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-6996-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "6996/SPEARMINT",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-1515-0020",
+    "MERK": "PRG ADHESION",
+    "NAMA": "1515/WHITE",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-WS82-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS82/BLACK WASH BLW",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS81-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS81/WEATH WHITE WEW",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS84-0020",
+    "MERK": "WOOD STAIN WB",
+    "NAMA": "WS84/BLACK TPP",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-9271-0020",
+    "MERK": "PARAGON GLAZE",
+    "NAMA": "9271/BLACK",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-8241-0020",
+    "MERK": "PARAGON GLAZE",
+    "NAMA": "8241/BROWN",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-071880020",
+    "MERK": "PARAGON GLAZE",
+    "NAMA": "07188/GREY MDG",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-01147PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "01147/CHARDONNAY",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0313-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 313,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0313-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 313,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0313-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 313,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0313-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 313,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0313-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "313/BRIGHT ORANGE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0318-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 318,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0318-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 318,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0318-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 318,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0318-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 318,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0318-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "318/LEMONADE",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0312-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 312,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0312-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "312/IVORY",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-0312-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 312,
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-0312-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": 312,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0312-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": 312,
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-01133DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "01133/MOON DANCE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "DOS-PAR000001",
+    "MERK": "DOS PAR 1KG",
+    "NAMA": "PARAGON DOS 1KG",
+    "KMSN": "DOS KSG"
+  },
+  {
+    "ITEM": "PAR-TD1580020",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD158/BLUE BEARD",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-TD1580005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD158/BLUE BEARD",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-1539-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "1539/WD PUTY WHIT NB",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-TD1600005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD160/SILVER GREY",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD1510005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD151/SILENT DELIGHT",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD1390005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD139/ALMOND ROCA",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD0150005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD015/WINTER DAY",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD0330005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD033/OATMEAL",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD0240005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD024/DREAMY CLOUD",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-8246-0250",
+    "MERK": "PARAGON EML",
+    "NAMA": "8246/W.PUTY SUNGKAI",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-1550-PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "1550/PR.WHITE TPP",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-9271-0P20",
+    "MERK": "PARAGON GLAZE",
+    "NAMA": "9271/BLACK CTN",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-071880P20",
+    "MERK": "PARAGON GLAZE",
+    "NAMA": "07188/GREY MDG",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS83-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS83/OFF WHIT IDX HQ",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-610290020",
+    "MERK": "PARAGON EML",
+    "NAMA": "61029/AQUA L.T.TOSCA",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-TD0040020",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD004/SWEET THINGS",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-0TTP-0020",
+    "MERK": "TUTUP PL PRG20",
+    "NAMA": "TUTUP PAIL PRG20",
+    "KMSN": "TUTUP PL"
+  },
+  {
+    "ITEM": "PAR-8246-0230",
+    "MERK": "PARAGON EML",
+    "NAMA": "8246/W.PUTY SUNGKAI",
+    "KMSN": "DRUM"
+  },
+  {
+    "ITEM": "PAR-C0176LT20",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0176/AQL.CL DOFF HV",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C0177LT20",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0177/AQL.C SATIN HV",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-2380-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "2380/AQUA L. E TR YL",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-51245PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "51245/LYRIC BLUE TS",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C01800020",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0180/AQL.C.DF HVMDF",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-3792-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "3792/SUNRISE RED",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-512120020",
+    "MERK": "PARAGON EML",
+    "NAMA": "51212/AQL. AR BLUE",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-WS90-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS90/OPAL BLUE IDX",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS89-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS89/FROSTED BLUE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-01133PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "01133/MOON DANCE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-512200020",
+    "MERK": "PARAGON EML",
+    "NAMA": "51220/AQL. DEEP BLUE",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-C01840020",
+    "MERK": "WS TOPCOAT WB",
+    "NAMA": "C0184/CLEAR DOFF TPP",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS88-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS88/JACK GREEN IDX",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-2526-0020",
+    "MERK": "PARAGON EML",
+    "NAMA": "2526/AQ L. D TR YL02",
+    "KMSN": "JRG"
+  },
+  {
+    "ITEM": "PAR-C01850020",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0185/AQL.C.G.HV MAS",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-TD0280020",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD028/HUSKY",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-01148PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "01148/CREAM TINT",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-TD0970005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD097/GREEN ICE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD0040005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD004/SWEET THINGS",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-WS87-LT20",
+    "MERK": "PARAGON WS PS",
+    "NAMA": "WS87/LEATHER BL FBNL",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-WS86-PL20",
+    "MERK": "WOOD STAIN WB",
+    "NAMA": "WS86/NAVY BLUE TPP",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-WS84-PL20",
+    "MERK": "WOOD STAIN WB",
+    "NAMA": "WS84/BLACK TPP",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-2583PPS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "2583P/GREEN GRAPE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C0180PL20",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0180/AQL.C.DF HVMDF",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-1562-DB30",
+    "MERK": "PARAGON EML DB",
+    "NAMA": "1562/W.PUTTY CL.BASE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-07266PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "07266/GREY TROPHIES",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-44475PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "44475/PUTIH LAGUNA",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-444750020",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "44475/PUTIH LAGUNA",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-44475PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "44475/PUTIH LAGUNA",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD0290020",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD029/WHITE ON WHITE",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-61083PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "61083/MINT SHRBET",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-TD0300005",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD030/GRAY SHADOW",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-TD0300020",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "TD030/GRAY SHADOW",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-07271PS20",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "07271/GREY MOUNTAIN",
+    "KMSN": "PAIL"
+  },
+  {
+    "ITEM": "PAR-C0202PL20",
+    "MERK": "PARAGON EML",
+    "NAMA": "C0202/AQL.CLEAR DOFF",
+    "KMSN": "PAIL/PLS"
+  },
+  {
+    "ITEM": "PAR-8270-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "8270/SUEDE SLX",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-8269-PS01",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "8269/ANTIQUE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-8269-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "8269/ANTIQUE",
+    "KMSN": "KLG"
+  },
+  {
+    "ITEM": "PAR-8270-PS05",
+    "MERK": "PARAGON EML PS",
+    "NAMA": "8270/SUEDE SLX",
+    "KMSN": "KLG"
+  }
+]
