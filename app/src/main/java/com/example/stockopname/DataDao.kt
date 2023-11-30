@@ -11,4 +11,7 @@ interface DataDao {
 
     @Query("SELECT * FROM data")
     suspend fun fetch():List<DataEntity>
+
+    @Query("DELETE FROM data")
+    suspend fun deleteAll()
 }
