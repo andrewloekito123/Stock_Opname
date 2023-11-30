@@ -2,6 +2,7 @@ package com.example.stockopname
 
 import android.app.DatePickerDialog
 import android.content.Context
+import android.content.Intent
 import android.os.Bundle
 import android.renderscript.ScriptGroup.Input
 import android.text.TextWatcher
@@ -66,6 +67,7 @@ class HomeFragment : Fragment() {
         val tvKemasan = view.findViewById<TextView>(R.id.tvKemasan)
         val etStokOpname = view.findViewById<EditText>(R.id.etStokOpname)
         val jsonString = loadJsonFromAsset(requireContext(), "master_barang.json")
+        val btInsertPage = view.findViewById<Button>(R.id.btInsertPage)
         db = AppDatabase.build(requireContext())
         jsonData = JSONArray(jsonString)
         val btSubmit = view.findViewById<Button>(R.id.btSubmit)
@@ -147,7 +149,10 @@ class HomeFragment : Fragment() {
                 }
             }
         }
-
+        btInsertPage.setOnClickListener {
+            val intent = Intent(requireContext(), InsertActivity::class.java)
+            startActivity(intent)
+        }
 
         return view
 
