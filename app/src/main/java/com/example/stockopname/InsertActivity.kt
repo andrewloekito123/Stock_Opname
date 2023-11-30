@@ -2,6 +2,7 @@ package com.example.stockopname
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
@@ -24,7 +25,6 @@ class InsertActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityInsertBinding.inflate(layoutInflater)
         setContentView(binding.root)
-//        Toast.makeText(this, "tes", Toast.LENGTH_SHORT).show()
         binding.btInsert.setOnClickListener {
             if(binding.etInsertKodeBarang.text.toString().isEmpty() || binding.etInsertMerk.text.toString().isEmpty() || binding.etInsertNama.text.toString().isEmpty() || binding.etInsertKemasan.text.toString().isEmpty()){
                 Toast.makeText(this, "Data tidak boleh kosong", Toast.LENGTH_SHORT).show()
@@ -37,7 +37,8 @@ class InsertActivity : AppCompatActivity() {
                     binding.etInsertKemasan.text.toString())
                 Toast.makeText(this, "Data berhasil ditambahkan", Toast.LENGTH_SHORT).show()
             }catch (e: Exception){
-                Toast.makeText(this, "Data gagal ditambahkan", Toast.LENGTH_SHORT).show()
+                Log.e("MyApp", "Exception: ${e.message}")
+                e.printStackTrace()
             }
         }
     }
@@ -48,10 +49,17 @@ class InsertActivity : AppCompatActivity() {
 
             // Copy the file from assets to internal storage
             val internalFile = File(filesDir, "master_barang.json")
+            Log.d("MyApp", "Before copying file")
             copyFileFromAssets(assetsFileName, internalFile)
+            Log.d("MyApp", "After copying file")
 
             // Load existing JSON data from internal storage
+            Log.d("MyApp", "Before loading JSON array")
             val existingJsonArray = loadJsonArrayFromFile(internalFile)
+            Log.d("MyApp", "After loading JSON array: $existingJsonArray")
+
+
+            Log.d("MyApp", "Existing JSON array: $existingJsonArray")
 
             // Append user input to the existing JSON array
             val newItemObject = JSONObject().apply {
@@ -62,15 +70,22 @@ class InsertActivity : AppCompatActivity() {
             }
             existingJsonArray.put(newItemObject)
 
+            Log.d("MyApp", "Updated JSON array: $existingJsonArray")
+
             // Save the updated JSON array back to the internal file
             saveJsonArrayToFile(internalFile, existingJsonArray)
         }
     }
+
     private fun copyFileFromAssets(assetsFileName: String, destinationFile: File) {
         try {
             val inputStream: InputStream = assets.open(assetsFileName)
             val outputStream = FileOutputStream(destinationFile)
+            Log.d("MyApp", "Before copying file: $assetsFileName to $destinationFile")
             inputStream.copyTo(outputStream)
+            Log.d("MyApp", "After copying file")
+            Log.d("MyApp", "Internal file path: ${destinationFile.absolutePath}")
+
             inputStream.close()
             outputStream.close()
         } catch (e: IOException) {
@@ -78,16 +93,22 @@ class InsertActivity : AppCompatActivity() {
         }
     }
 
+
     private fun loadJsonArrayFromFile(file: File): JSONArray {
         return try {
+            Log.d("MyApp", "Before loading JSON array")
             val inputStream = file.inputStream()
             val jsonString = inputStream.bufferedReader().use { it.readText() }
+            Log.d("MyApp", "Loading JSON array from file: $file")
+            Log.d("MyApp", "Loaded JSON content: $jsonString")
             JSONArray(jsonString)
         } catch (e: IOException) {
             e.printStackTrace()
             JSONArray()
         }
     }
+
+
 
     private fun saveJsonArrayToFile(file: File, jsonArray: JSONArray) {
         try {
@@ -98,6 +119,7 @@ class InsertActivity : AppCompatActivity() {
             writer.close()
             outputStream.close()
         } catch (e: IOException) {
+            Log.e("MyApp", "Exception: ${e.message}")
             e.printStackTrace()
         }
     }

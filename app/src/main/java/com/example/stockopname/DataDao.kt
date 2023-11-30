@@ -14,4 +14,7 @@ interface DataDao {
 
     @Query("DELETE FROM data")
     suspend fun deleteAll()
+
+    @Query("DELETE FROM data WHERE KodeBarang = :kodeBarang")
+    suspend fun deleteByKodeBarang(kodeBarang: String)
 }

@@ -12,8 +12,11 @@ import android.widget.TableLayout
 import android.widget.TableRow
 import android.widget.TextView
 import android.widget.Toast
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import java.io.File
@@ -36,6 +39,8 @@ class DataFragment : Fragment() {
     private lateinit var db: AppDatabase
     private var param1: String? = null
     private var param2: String? = null
+    private lateinit var recyclerView: RecyclerView
+    private lateinit var dataAdapter: DataAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -50,25 +55,17 @@ class DataFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         val view = inflater.inflate(R.layout.fragment_data, container, false)
-        val tableLayout = view.findViewById<TableLayout>(R.id.tableLayout)
+        recyclerView = view.findViewById(R.id.rvData)
+        recyclerView.layoutManager = LinearLayoutManager(requireContext())
         val btExport = view.findViewById<Button>(R.id.btExport)
         db = AppDatabase.build(requireContext())
-
-        CoroutineScope(Dispatchers.IO).launch {
+        GlobalScope.launch(Dispatchers.Main) {
             val dataList = db.dataDao.fetch()
-
-            withContext(Dispatchers.Main) {
-                for (dataEntity in dataList) {
-                    val bodyRow = TableRow(requireContext())
-                    bodyRow.addView(createTextView(dataEntity.Tanggal))
-                    bodyRow.addView(createTextView(dataEntity.KodeBarang))
-                    bodyRow.addView(createTextView(dataEntity.Nama))
-                    bodyRow.addView(createTextView(dataEntity.Merk))
-                    bodyRow.addView(createTextView(dataEntity.StokOpname.toString()))
-                    bodyRow.addView(createTextView(dataEntity.Kemasan))
-                    tableLayout.addView(bodyRow)
-                }
+            dataAdapter = DataAdapter(dataList) { data ->
+                onDeleteButtonClick(data.KodeBarang)
             }
+            recyclerView.adapter = dataAdapter
+            recyclerView.addItemDecoration(SimpleDividerItemDecoration(requireContext()))
         }
         btExport.setOnClickListener {
             CoroutineScope(Dispatchers.IO).launch {
@@ -90,6 +87,17 @@ class DataFragment : Fragment() {
         }
         return view
     }
+    private fun onDeleteButtonClick(KodeBarang: String) {
+        GlobalScope.launch(Dispatchers.IO) {
+            db.dataDao.deleteByKodeBarang(KodeBarang)
+
+            withContext(Dispatchers.Main) {
+                dataAdapter.updateData(db.dataDao.fetch()) // Assuming fetch() gets fresh data
+                Toast.makeText(requireContext(), "Data berhasil dihapus", Toast.LENGTH_LONG).show()
+            }
+        }
+    }
+
     private suspend fun saveToFile(content: String, file: File) {
         withContext(Dispatchers.IO) {
             val outputStream: OutputStreamWriter
@@ -109,15 +117,6 @@ class DataFragment : Fragment() {
                 e.printStackTrace()
             }
         }
-    }
-    private fun createTextView(text: String): TextView {
-        val textView = TextView(requireContext())
-        textView.text = text
-        textView.layoutParams = TableRow.LayoutParams(
-            TableRow.LayoutParams.WRAP_CONTENT,
-            TableRow.LayoutParams.WRAP_CONTENT
-        )
-        return textView
     }
 
     companion object {
